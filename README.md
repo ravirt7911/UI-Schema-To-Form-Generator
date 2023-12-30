@@ -34,6 +34,10 @@ The application will be accessible at http://localhost:3000 in your web browser.
 
 3. Observe the form being automatically rendered on the right side based on the provided UI schema.
 
+## Hosted Website
+Directly access the website by clicking on the below link
+(https://inquisitive-daifuku-6a390c.netlify.app/)
+
 
 
 
