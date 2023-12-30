@@ -15,7 +15,7 @@ The source code for this project is organized in the `src` folder, specifically 
 To run the application locally, follow these steps:
 
 1. Clone the repository:
-   git clone https://github.com/your-username/your-repository.git
+   git clone (https://github.com/ravirt7911/Frontend-Assignment.git)
    
 2. Navigate to the project folder:
    cd your-repository
